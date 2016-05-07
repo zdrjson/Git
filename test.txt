@@ -2,3 +2,9 @@ Hello World!!!…
 
 see you!
 
+<<<<<<< HEAD
+=======
+see you!
+
+Add 3 line!
+>>>>>>> FeatureA
